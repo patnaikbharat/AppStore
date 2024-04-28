@@ -1,0 +1,22 @@
+.tab-list-item {
+  list-style: none;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.tab-name {
+  color: #7b8794;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+}
+
+hr {
+  border: solid 1px #7b8794;
+}
+
+.add-style {
+  color: #2563eb;
+  border-color: #2563eb;
+}
